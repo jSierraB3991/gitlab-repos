@@ -1,0 +1,6 @@
+github.com/nicksnyder/go-i18n/v2 v2.4.0 h1:3IcvPOAvnCKwNm0TB0dLDTuawWEj+ax/RERNC+diLMM=
+github.com/nicksnyder/go-i18n/v2 v2.4.0/go.mod h1:nxYSZE9M0bf3Y70gPQjN9ha7XNHX7gMc814+6wVyEI4=
+gitlab.com/eliotandelon/eliot-libs v0.0.14 h1:Gl+hNjkWNQDrV6MsyIW7La6/ImZ9dHO7l+eK56c/gYs=
+gitlab.com/eliotandelon/eliot-libs v0.0.14/go.mod h1:+Kb+uYvmnJUMdcWw35YEd6F/Q4I/gPWXEgIbW5nAdyQ=
+golang.org/x/text v0.18.0 h1:XvMDiNzPAl0jr17s6W9lcaIhGUfUORdGCNsuLmPG224=
+golang.org/x/text v0.18.0/go.mod h1:BuEKDfySbSR4drPmRPG/7iBdf8hvFMuRexcpahXilzY=
